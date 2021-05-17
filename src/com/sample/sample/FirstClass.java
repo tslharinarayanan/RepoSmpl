@@ -2,6 +2,6 @@ package com.sample.sample;
 
 public class FirstClass {
 	public static void main(String[] args) {
-		System.out.println("First Class");
+		System.out.println("1st Class");
 	}
 }
